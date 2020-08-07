@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<!--Reason for creation : Some random guy texted me few hours ago saying I'm a noob  also claiming that I know nothing 😂..hence made this..also I was too lazy to add any more features :D hence left as it is :)-->
+<!--Creation date : 1st Aug-->
+<title>Sololearn</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://kit.fontawesome.com/0cfef73daa.js" crossorigin="anonymous"></script>
+</head>
+<body>
+<div id="square">
+<div class="rectangle">
+<div class="cube"></div>
+</div>
+<p><i>Loading...</i></p>
+</div>
+<div class="loader"></div>
+<!--https://www.sololearn.com/Terms-of-Use/-->
+<link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+<main>
+<nav>
+ <a href="#"><i class="fa fa-angle-left" ></i></a>
+ <a href="#" >Welcome to our forum</a>
+ <a href="#" class="menu-btn"><i class="fa fa-ellipsis-v" ></i>
+   <ul class="menu" >
+     <li>About</li>
+     <li>Contact</li>
+     <li>Know more</li>
+     <li>Contact</li>
+     <li>Feedback</li>
+     <li>Terms of service</li>
+   </ul>
+ </a>
+</nav>
+<div class="learning-1">
+<div class="learning-2">
+<div class="section-title"><h1>sololearn</h1></div>
+<div class="outline-1"></div>
+<div class="outline-2">
+<div class="outline-3">
+<div class="outline-4">
+<i class="fa fa-graduation-cap"></i></div>
+<div class="name-1">Home</div>
+<div class="name-2">Sololearn is an excellent platform for all beginners.
+  </div>
+  </div>
+<div class="outline-2">
+<div class="outline-3">
+<div class="outline-4">
+<i class="fas fa-bolt"></i>
+    </div>
+<div class="name-1">Challenge</div>
+<div class="name-2">Challenges can be played in the challenge section by selecting any weapon.
+  </div>
+  </div>
+<div class="outline-2">
+<div class="outline-3">
+<div class="outline-4">
+<i class="fas fa-home"></i>
+    </div>
+<div class="name-1">Activity Feed</div>
+<div class="name-2">Challenges,posts,batches and memes are posted here.
+  </div>
+  </div>
+<div class="outline-2">
+<div class="outline-3">
+<div class="outline-4">
+<i class="fas fa-code"></i>
+    </div>
+<div class="name-1">Trending codes</div>
+<div class="name-2">Here is the place where the top codes are displayed.
+  </div>
+  </div>
+<div class="outline-2">
+<div class="outline-3">
+<div class="outline-4">
+<i class="fa fa-comments-o"></i>
+    </div>
+<div class="name-1">Question and Answers</div>
+<div class="name-2">You can place programming related doubts and queries about sololearn.
+  </div>
+  </div>
+<!-- End Page Content -->
+</div>
+<div class="about" >
+ <h2>About</h2>
+</div>
+<footer>
+<a href="#" ><i class="fa fa-facebook" ></i></a>
+<a href="#" ><i class="fa fa-twitter" ></i></a>
+<a href="#" ><i class="fa fa-instagram" ></i></a>
+</footer>
+</main>
+<style>
+   {
+    padding: 0px;
+    margin: 0px;
+}
+.section-1{ 
+height: 15vh;
+background-image:url(https://cdn.worldvectorlogo.com/logos/sololearn-2.svg);
+background-attachment: fixed;
+background-size: cover;
+} 
+</style>
+</body>
+</html>
